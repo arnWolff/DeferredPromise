@@ -1,0 +1,25 @@
+{
+  "name": "deferredpromise",
+  "version": "1.0.0",
+  "description": "Deferred Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnWolff/DeferredPromise.git"
+  },
+  "keywords": [
+    "resolve/reject",
+    "Promise",
+    "outside",
+    "callback"
+  ],
+  "author": "arnWolff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnWolff/DeferredPromise/issues"
+  },
+  "homepage": "https://github.com/arnWolff/DeferredPromise#readme"
+}
