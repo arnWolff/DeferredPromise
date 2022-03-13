@@ -1,14 +1,17 @@
 {
-  "name": "deferredpromise",
+  "name": "@arnwolff/deferredpromise",
   "version": "1.0.0",
   "description": "Deferred Promise",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/arnwolff"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arnWolff/DeferredPromise.git"
+    "url": "git://github.com/arnWolff/DeferredPromise.git"
   },
   "keywords": [
     "resolve/reject",
